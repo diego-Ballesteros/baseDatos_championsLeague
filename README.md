@@ -1,4 +1,4 @@
-### Base de datos de Pagina oficial de la Uefa Champions League 
+## Base de datos de Pagina oficial de la Uefa Champions League 
 
 Realizada con PgAdmin 
 
@@ -11,13 +11,19 @@ Realizada con PgAdmin
 - Diseño Logico en MySql
 
 ## Diseño logico
+![diseño_Logico](https://github.com/diego-Ballesteros/baseDatos_championsLeague/assets/114629529/e8645cc9-8db6-4015-973a-d0e5d49c85a8)
+### Diseño logico para los eventos en un partido
+![diseño_Logico_Acciones](https://github.com/diego-Ballesteros/baseDatos_championsLeague/assets/114629529/f9b56384-38ee-4a13-94d8-1d70d5723dd1)
 
 ## Diseño concepctual
+![diseño_Conceptual](https://github.com/diego-Ballesteros/baseDatos_championsLeague/assets/114629529/1fd9aab2-cd37-475b-baf8-cc4f3f578b97)
+### Diseño conceptaul para los eventos en un partido
+![diseño_Conceptual_Acciones](https://github.com/diego-Ballesteros/baseDatos_championsLeague/assets/114629529/c62ba1af-09a3-4a25-af81-936e6f6ae1d0)
+
 
 ## Consultas Realizadas en este proyecto
 
-
-> 1. Que personas fueron jugadores y luego son técnicos
+> 1. Que personas fueron jugadores y luego fueron o son técnicos
 
 > 2. Que jugadores del psg que estuvieron sancionados a lo largo de la champions                      
 
@@ -31,9 +37,9 @@ Realizada con PgAdmin
 
 > 7. Atajadas en segundos tiempos por portero
 
-> 8. Promedio de edades por club
+> 8. Promedio de edades de jugadores por club
 
-> 9. Goles por extremidad anotados por Neymar
+> 9. Cuantos goles por cada parte del curpo (cabeza, pierna izquierda o derecha u otro..) ha anotado neymar.
 
 
 ## Requisitos que soluciona esta base de datos
